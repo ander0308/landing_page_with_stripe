@@ -22,8 +22,9 @@ $ cat backend/strapi.sql | docker exec -i strapi_database psql -U strapi -d stra
 
 ## 4-Dentro do painel, seré necessário fazer duas configuraçoes
 
- # - Ir em `Settings > Internationalization` (clique na opção de editar a ligua 'English'), na opção `ADVANCED SETTINGS`, habilite a opção `"Set as default locale"`
-  # - Ir em `Settings > Roles` de (USERS & PERMISSIONS PLUGIN)` entre na opção `Public` em Permissions(APPLICATION) habilite todas as opções para dar permissão para a API ter acesso aos dados. Clique em Salvar e reinicie os containers do Docker caso tenha erro no frontend.
+- Ir em `Settings > Internationalization` (clique na opção de editar a ligua 'English'), na opção `ADVANCED SETTINGS`, habilite a opção `"Set as default locale"`
+
+- Ir em `Settings > Roles` de (USERS & PERMISSIONS PLUGIN)` entre na opção `Public` em Permissions(APPLICATION) habilite todas as opções para dar permissão para a API ter acesso aos dados. Clique em Salvar e reinicie os containers do Docker caso tenha erro no frontend.
 
 
 
