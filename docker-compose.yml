@@ -2,7 +2,7 @@
 version: '3'
 services:
   strapi:
-    container_name: strapi
+    container_name: strapi_application
     image: strapi/strapi
     restart: unless-stopped
     environment:
@@ -22,7 +22,7 @@ services:
       - postgres
 
   postgres:
-    container_name: strapiDB
+    container_name: strapi_database
     image: postgres:12.0-alpine
     restart: unless-stopped
     environment:
