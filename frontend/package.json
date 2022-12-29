@@ -1,7 +1,7 @@
 {
-  "name": "simple-nextjs-quick-start",
+  "name": "landing-page-nextjs-strapi",
   "version": "1.0.0",
-  "description": "Nextjs quick start",
+  "description": "Landing Page with CMS Strapi",
   "scripts": {
     "test": "jest --passWithNoTests",
     "lint": "eslint src",
