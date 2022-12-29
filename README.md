@@ -3,7 +3,7 @@
 ### RODANDO O BACKEND
 ## 0-Faça o clone do projeto com o comando abaix0:
 ```
-$ git clone 
+$ git clone https://github.com/ander0308/landing_page_with_stripe
 ```
 
 ## 1-Rodar o compando `docker-compose up` dentro do repositório (`application`).
