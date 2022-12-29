@@ -1,4 +1,4 @@
-# Strapi application
+# Strapi application in Docker
 
 ## RODANDO O BACKEND
 
