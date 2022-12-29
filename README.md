@@ -2,7 +2,7 @@
 
 ### RODANDO O BACKEND
 
-0 - Faça o clone do projeto com o comando abaix0:
+0 - Faça o clone do projeto com o comando abaixo:
 ```
 $ git clone https://github.com/ander0308/landing_page_with_stripe
 ```
