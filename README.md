@@ -12,7 +12,7 @@ $ git clone https://github.com/ander0308/landing_page_with_stripe
 $ docker-compose up
 ```
 
-2 - Após subir os containers do Docker, para entrar no Dashboard do Stipre, digite a url http://localhost:1337/admin/ no navegador, será necessário realizar um cadastro inicial.
+2 - Após subir os containers do Docker, para entrar no Dashboard do Strapi, digite a url http://localhost:1337/admin/ no navegador, será necessário realizar um cadastro inicial.
 
 
 3 - Rodar o comando abaixo para subir o Dump do banco de dados para o postgres no Docker.
