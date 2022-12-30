@@ -7,7 +7,7 @@
 $ git clone https://github.com/ander0308/landing_page_with_stripe
 ```
 
-1 - Rodar o comando `docker-compose up` dentro do repositório.
+1 - Rodar o comando `docker-compose up` ou `docker compose up` dentro do repositório.
 ```
 $ docker-compose up
 ```
@@ -20,7 +20,7 @@ $ docker-compose up
 $ cat backend/strapi.sql | docker exec -i strapi_database psql -U strapi -d strapi
 ```
 
-4 - Dentro do painel, seré necessário fazer duas configuraçoes
+4 - Dentro do painel, seré necessário fazer duas configurações
 
 - Ir em `Settings > Internationalization` (clique na opção de editar a lingua 'English'), na opção `ADVANCED SETTINGS`, habilite a opção `"Set as default locale"`
 
