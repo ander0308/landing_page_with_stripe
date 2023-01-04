@@ -1,5 +1,14 @@
 # Strapi application in Docker
 
+Tecnologias utilizadas:
+- Strapi
+- Docker
+- React
+- Styled components
+- NextJS
+- GraphQL
+- PostgreSQL
+
 ### RODANDO O BACKEND
 
 0 - Faça o clone do projeto com o comando abaixo:
