@@ -4,6 +4,7 @@ Tecnologias utilizadas:
 - Strapi
 - Docker
 - React
+- Typescript
 - Styled components
 - NextJS
 - GraphQL
